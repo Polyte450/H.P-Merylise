@@ -1,0 +1,39 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "experience": "Experience",
+    "materials": "Materials",
+    "contact": "Contact"
+  },
+  "contact": {
+    "sectionTag": "Contact",
+    "title": "Let’s build something together.",
+    "description": "Whether you have a question, a project idea, or just want to say hi — my inbox is open.",
+    "getInTouchTitle": "Get in touch",
+    "getInTouchDescription": "The fastest way to reach me is email.",
+    "labels": {
+      "email": "Email",
+      "instagram": "Instagram",
+      "location": "Location"
+    },
+    "values": {
+      "location": "Rwanda"
+    },
+    "form": {
+      "nameLabel": "Your name",
+      "emailLabel": "Your email",
+      "subjectLabel": "Subject",
+      "messageLabel": "Message",
+      "namePlaceholder": "Jane Doe",
+      "emailPlaceholder": "jane@example.com",
+      "subjectPlaceholder": "Project collaboration",
+      "messagePlaceholder": "Tell me about your idea...",
+      "button": "Send message →",
+      "defaultSubject": "Hello from your portfolio",
+      "statusOpening": "Opening your email client..."
+    }
+  }
+}

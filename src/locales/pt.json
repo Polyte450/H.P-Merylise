@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "skills": "Habilidades",
+    "experience": "Experiência",
+    "materials": "Materiais",
+    "contact": "Contato"
+  },
+  "home": {
+    "title": "Bem-vindo ao meu portfólio",
+    "description": "Um portfólio moderno em Vue.js com Tailwind CSS"
+  },
+  "about": {
+    "title": "Sobre",
+    "description": "Esta é a página sobre."
+  },
+  "projects": {
+    "title": "Projetos",
+    "description": "Liste seus projetos aqui."
+  },
+  "skills": {
+    "title": "Habilidades",
+    "description": "Habilidades e ferramentas principais.",
+    "frontend": ["Vue 3", "JavaScript", "HTML & CSS", "Tailwind CSS"],
+    "tools": ["Vite", "Git", "Vercel", "NPM"]
+  },
+  "experience": {
+    "title": "Experiência",
+    "description": "Cargos profissionais e descrições."
+  },
+  "contact": {
+    "title": "Contato",
+    "description": "Entre em contato comigo."
+  }
+}
